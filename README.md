@@ -1,29 +1,19 @@
-# scroll-to-top
+Vue.js Scroll-to-Top Button
 
-This template should help get you started developing with Vue 3 in Vite.
+A Vue.js component that provides smooth scroll-to-top functionality with a visually appealing fade-in/out animation. Customize the appearance and behavior to perfectly match your website.
 
-## Recommended IDE Setup
+Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Dynamic Visibility: The button appears smoothly when the user scrolls down a specified distance.
+Fade Transitions: Creates an elegant user experience through Vue's <Transition> component.
+Reactive & Performant: Leverages Vue's reactivity concepts and lifecycle hooks for optimal integration with your project.
 
-## Customize configuration
+Demo
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Check out a live demo of the component in action here: https://vue-scroll-to-top.netlify.app/
 
-## Project Setup
+YouTube Tutorial
 
-```sh
-npm install
-```
+This component was created as part of a detailed Vue.js tutorial. Watch it here: https://youtu.be/yJUFclTDiMs
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Made with ❤️ and Vue.js
